@@ -1,0 +1,5 @@
+/CDlist/CD/performance/composition
+/CDlist/CD/performance[soloist]/composition
+/CDlist/CD/performance[orchestra and not (soloist)]/composition
+/CDlist/CD[publisher[(text () ="Deutsche Grammophon")]]/performance[orchestra[(text () ="London Symphony Orchestra")]]/soloist
+/CDlist/CD[performance[orchestra[(text () ="London Symphony Orchestra")]]]
